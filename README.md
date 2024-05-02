@@ -31,7 +31,12 @@ This is a simple console-based Brick Breaker game implemented in C++. It provide
 
 ## Gameplay Screenshot
 
-![Gameplay](screenShots/gameplay.png)
+![gameMenu](screenShots/1.png)
+![gameControls](screenShots/2.png)
+![gameplay](screenShots/3.png)
+![gameplay](screenShots/4.png)
+![gameplay](screenShots/5.png)
+
 
 ## Installation
 
