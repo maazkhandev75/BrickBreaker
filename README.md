@@ -10,6 +10,10 @@ This is a simple console-based Brick Breaker game implemented in C++. It provide
 - Lives system to manage player's attempts.
 - Game over screen with option to restart or exit.
 
+## important notice
+-> the game will not show graphics in windows terminal you have to use windows console host to play the game....
+
+
 ## How to Play
 
 1. **Controls**:
@@ -40,6 +44,6 @@ This is a simple console-based Brick Breaker game implemented in C++. It provide
 
 ## Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: https://github.com/maazkhan75/Brick-Breaker-Game.git
 
 
