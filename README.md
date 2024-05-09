@@ -11,8 +11,9 @@ This is a simple console-based Brick Breaker game implemented in C++. It provide
 - Game over screen with option to restart or exit.
 
 ## important notice
- the game will not show graphics in windows terminal you have to use windows console host to play the game by changing default terminal in setting in of cmd or terminal....
- 
+ the game will not show graphics in windows terminal you have to use windows console host to play the game by changing default terminal in setting of cmd or terminal of windows as shown below
+
+ ![instruction](images/6.png)
 
 
 ## How to Play
@@ -36,11 +37,11 @@ This is a simple console-based Brick Breaker game implemented in C++. It provide
 
 ## Gameplay Screenshot
 
-![gameMenu](screenShots/1.png)
-![gameControls](screenShots/2.png)
-![gameplay](screenShots/3.png)
-![gameplay](screenShots/4.png)
-![gameplay](screenShots/5.png)
+![gameMenu](images/1.png)
+![gameControls](images/2.png)
+![gameplay](images/3.png)
+![gameplay](images/4.png)
+![gameplay](images/5.png)
 
 
 ## Installation
