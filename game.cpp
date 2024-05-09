@@ -7439,7 +7439,7 @@ int main()
 				delay(4);
 			}
 			delay(10);
-			cout << "   Develop & Designer of game : maazkhan75 \n";
+			cout << "                Develop & Designer of game : maazkhan75 \n";
 			for (int i = 0; i < 68; i++) {
 				cout << ".";
 				delay(4);
