@@ -15,6 +15,9 @@ This is a simple console-based Brick Breaker game implemented in C++. It provide
 
  ![instruction](images/6.png)
 
+ **Recommended size of window : 
+ - height(30) and width(68)
+
 
 ## How to Play
 
