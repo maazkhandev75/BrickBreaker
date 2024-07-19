@@ -33,7 +33,7 @@ The game will not show graphics in Windows Terminal. You have to use Windows Con
    - Earn points for breaking bricks. The score increases with each brick broken.
    - Bonus points may be awarded for breaking multiple bricks in quick succession.
 
-4. **Lives ❤️❤️❤️**:
+4. **Lives ❤**:
    - Start the game with a set number of lives.
    - Lose a life each time the ball falls off the screen.
    - Game ends when all lives are lost.
