@@ -38,6 +38,13 @@ The game will not show graphics in Windows Terminal. You have to use Windows Con
    - Lose a life each time the ball falls off the screen.
    - Game ends when all lives are lost.
 
+## 📥 Installation
+
+- Clone the repository:
+  ```bash
+  git clone https://github.com/maazkhan75/BrickBreaker.git
+  ```
+  
 ## 📸 Gameplay Screenshot
 
 ![gameMenu](images/1.png)
@@ -45,9 +52,3 @@ The game will not show graphics in Windows Terminal. You have to use Windows Con
 ![gameplay](images/3.png)
 ![gameplay](images/4.png)
 ![gameplay](images/5.png)
-
-## 📥 Installation
-
-- Clone the repository:
-  ```bash
-  git clone https://github.com/maazkhan75/BrickBreaker.git
