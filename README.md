@@ -1,4 +1,4 @@
-# Brick Breaker Game in C++
+# Brick Breaker in C++
 
 This is a simple console-based Brick Breaker game implemented in C++. It provides a classic gaming experience where players control a paddle to bounce a ball and break bricks.
 
@@ -49,6 +49,6 @@ This is a simple console-based Brick Breaker game implemented in C++. It provide
 
 ## Installation
 
-1. Clone the repository to your local machine: https://github.com/maazkhan75/Brick-Breaker-Game.git
+1. Clone the repository to your local machine: https://github.com/maazkhan75/Brick-Breaker.git
 
 
