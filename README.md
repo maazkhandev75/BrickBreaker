@@ -37,6 +37,10 @@ The game will not show graphics in Windows Terminal. You have to use Windows Con
    - Start the game with a set number of lives.
    - Lose a life each time the ball falls off the screen.
    - Game ends when all lives are lost.
+  
+## 📄 License
+
+This project is licensed under the MIT License.
 
 ## 📥 Installation
 
