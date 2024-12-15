@@ -46,7 +46,7 @@ This project is licensed under the MIT License.
 
 - Clone the repository:
   ```bash
-  git clone https://github.com/maazkhan75/BrickBreaker.git
+  git clone https://github.com/maazkhandev75/BrickBreaker.git
   ```
   
 ## 📸 Gameplay Screenshot
